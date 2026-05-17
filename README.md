@@ -1,10 +1,9 @@
 # MachineLearning-Research
-
 머신러닝 개인 연구 프로젝트 모음
 
 ## Projects
 - Supervised Learning (Decision Tree, SVM)
-- TBD
+- Unsupervised Learning (PCA, K-means, DBSCAN)
 - TBD
 
 ## Environment
